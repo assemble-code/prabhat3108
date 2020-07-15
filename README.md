@@ -1,6 +1,9 @@
   😄 Building character and system bit by bit xD<br>
   🔭 I am currently working as software engineer(Android) in Tata Digital<br>
   🌱 Trying to learn backend development in the spare time<br>
+  
+  <img src ="https://thumbs.gfycat.com/CheerySeparateGoldeneye-size_restricted.gif"/>
+ 
 <!--
 **prabhat3108/prabhat3108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
