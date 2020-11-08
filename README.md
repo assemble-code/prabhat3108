@@ -1,5 +1,5 @@
   😄 Building character and system bit by bit xD<br>
-  🔭 I am currently working as software engineer(Android) in Tata Digital<br>
+  🔭 I am currently working as software engineer(Android) at Tata Digital<br>
   🌱 Trying to learn backend development in the spare time<br>
   
   <img src ="https://thumbs.gfycat.com/CheerySeparateGoldeneye-size_restricted.gif"/>
